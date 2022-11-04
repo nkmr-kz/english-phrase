@@ -7,3 +7,4 @@
 | My hometown is famous for spinach. | ホームタウンはほうれん草で有名 | |
 | bullet train | 新幹線 | It takes a hour if you take a bullet train |
 | have in mind | 考えを聞く | What do you have in mind ? |
+| in ages | しばらくの間、数週間~数ヶ月、数年 | I haven’t seen you in ages. | 
